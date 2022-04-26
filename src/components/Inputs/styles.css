@@ -1,0 +1,14 @@
+.ipt{
+    width: 400px;
+    border: 1px solid red;
+    color: red;
+    border-radius: 30px;
+    padding: 15px;
+    
+}
+.divip{
+    margin-top: 20px;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: red;
+  }
